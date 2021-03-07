@@ -1,0 +1,37 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-image: url(/asset/jumbotron2.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.jumbotron h1 {
+    color: #ffffff;
+    font-weight: 200;
+    margin-bottom: 0;
+}
+
+.jumbotron p {
+    color: #d6d6d6;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+#project {
+    background-color: #000000;
+
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+section {
+    padding-top: 5rem;
+}
